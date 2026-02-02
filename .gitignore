@@ -1,0 +1,7 @@
+output/*
+__pycache__/
+*.pyc
+*.mp3
+*.pdf
+*.zip
+.env
